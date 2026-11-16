@@ -2,8 +2,7 @@
 
 **Applied Mathematician & Doctoral Researcher in Bioinformatics** @ Institute of Bioinformatics, University Medicine Greifswald (Kaderali Group)
 
-I build **toolkits and ecosystems for infectious disease control, prevention, and intervention assessment** — connecting dynamical disease models with modern AI. Currently preparing for industry roles in **Healthcare AI Applied Data Science**.
-
+I build **toolkits and ecosystems for infectious disease control, prevention, and intervention assessment** — connecting dynamical disease models with modern AI. 
 ---
 
 ## 🦠 Epiphase — an Ecosystem for Infectious Disease Modeling & Intervention Assessment
