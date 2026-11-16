@@ -25,10 +25,10 @@ Mechanistic modeling of viral transcription–replication phase transitions (Ebo
 
 **Machine Learning / AI**
 - **VectorSage** — semantic + lexical retrieval for large-scale PubMed search · [Bioinformatics Advances 2026](https://doi.org/10.1093/bioadv/vbag116)
-- **Cascade multimodal models** — energy-aware early-infection warning: continuous vital-sign risk model activates audio/disease classifiers only after an alert
+- **Cascade multimodal models** — energy-aware early-infection warning
 
 **Biostatistics**
-Clinical trial design & analysis · survival analysis · statistical methods for biomedical & biometry research.
+Clinical trial design & analysis · statistical methods for biomedical & biometry research.
 
 ---
 
