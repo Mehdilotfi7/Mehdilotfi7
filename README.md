@@ -26,12 +26,6 @@ I build machine-learning and mathematical modeling systems for healthcare and th
 
 **Core:** Dynamical Systems · Parameter Estimation · Machine Learning · NLP/Retrieval · Time-Series Analysis · Biostatistics · HPC
 
-### 📈 GitHub Stats
-
-<p align="left">
-  <img height="160" src="https://github-readme.vercel.app/api?username=Mehdilotfi7&show_icons=true&theme=default&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mehdilotfi7&layout=compact&hide_border=true" />
-p>
 
 ### 📚 Selected Publications
 
