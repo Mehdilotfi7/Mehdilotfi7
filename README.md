@@ -2,7 +2,7 @@
 
 **Applied Mathematician & Doctoral Researcher in Bioinformatics** @ Institute of Bioinformatics, University Medicine Greifswald (Kaderali Group)
 
-I build machine-learning and mathematical modeling systems for healthcare and the life sciences — from change-point detection algorithms to semantic search over millions of biomedical documents. Currently preparing for industry roles in **Healthcare AI / Applied Data Science**.
+I build machine-learning and mathematical modeling systems for healthcare and the life sciences, from change-point detection algorithms to semantic search over millions of biomedical documents. Currently preparing for industry roles in **Healthcare AI / Applied Data Science**.
 
 ---
 
