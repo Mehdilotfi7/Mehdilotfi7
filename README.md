@@ -11,7 +11,6 @@ I build machine-learning and mathematical modeling systems for healthcare and th
 - **MICA — Model-Informed Change-point Analysis** · change-point detection in model-parameter space (binary segmentation + genetic algorithm), validated on COVID-19 intervention data and industrial monitoring · [bioRxiv 2026](https://doi.org/10.64898/2026.03.16.712011)
 - **VectorSage** · semantic + lexical retrieval logic for large-scale PubMed search · published in [Bioinformatics Advances 2026](https://doi.org/10.1093/bioadv/vbag116)
 - **Epiphase+** · high-dimensional framework for comparing epidemic phases and intervention scenarios
-- **Octopus** · self-hosted multi-agent personal automation platform (21 AI agents, voice pipeline, LaTeX CV engine)
 - **Systematic Review** · data-driven strategies for model decision-making during COVID-19 · [BMJ Open 2026](https://doi.org/10.1136/bmjopen-2025-107660)
 
 ### 🧰 Tech Stack
